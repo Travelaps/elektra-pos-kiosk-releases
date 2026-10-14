@@ -1,1 +1,1 @@
-#Elektra Pos Kiosk Releases
+Elektra Pos Kiosk Releases
